@@ -1,0 +1,5 @@
+[2018-02-18 20:04:27.861] [INFO] normal - GET /api/goods?page=1&limit=10&type=5a89036d37106754f0cd4868 200
+[2018-02-18 20:04:56.025] [INFO] normal - GET /api/goods?page=1&limit=10&type=5a89036d37106754f0cd4868 200
+[2018-02-18 20:05:51.388] [ERROR] normal - GET /api/goods/search/all?keyword=A 500
+[2018-02-18 20:05:58.511] [ERROR] normal - GET /api/goods/search/all?keyword=Ap 500
+[2018-02-18 20:10:57.384] [ERROR] normal - GET /api/goods/search/all?keyword=App 500
